@@ -337,8 +337,8 @@
 <header>
   <span class="header-sun">☀️</span>
   <h1>Familie Frankrike 2025</h1>
-  <p class="subtitle">Grimaud · Côte d'Azur · Eva &amp; Svein 150 🎉</p>
-  <span class="header-dato">4. juli – 11. juli 2025 · 14 personer · 7 netter</span>
+  <p class="subtitle">Grimaud · Côte d'Azur · Storfamilien samlet 🌿</p>
+  <span class="header-dato">4. juli – 11. juli 2026 · 14 personer · 7 netter</span>
 </header>
 
 <!-- ===== NAVIGASJON ===== -->
@@ -361,13 +361,13 @@
   <!-- FAMILIEN -->
   <section id="familien">
     <h2>👨‍👩‍👧‍👦 Familien</h2>
-    <p>Ferien er en <strong>75-årsgave til Eva og Svein</strong> – en hel uke i Sør-Frankrike med alle barna og barnebarna. Totalt <strong>14 personer</strong>.</p>
+    <p>En hel uke i Sør-Frankrike med storfamilien – Eva og Svein feirer 75-årsdag, og alle barna med familier er samlet. Totalt <strong>14 personer</strong>.</p>
 
     <div class="familie-grid" style="margin-top:1.4rem;">
       <div class="familie-kort">
         <span class="emoji">👴👵</span>
         <h3>Eva &amp; Svein</h3>
-        <p>Æresgjestene – 75 år! 🎂</p>
+        <p>Feirer 75-årsdag 🎂</p>
       </div>
       <div class="familie-kort">
         <span class="emoji">👫</span>
@@ -410,8 +410,8 @@
     <div class="reise-dag">
       <div class="dag-dato">Lør<br>11. jul</div>
       <div class="dag-innhold">
-        <h4>Hjemreisedag ✈️</h4>
-        <p>Ragnhild, Bjørn Atle + barn flyr Nice–Oslo 18:05 (SK 4706, ank Oslo 21:00). Leiebil leveres Nice flyplass innen 17:00. <em>Andre familiers hjemreisetidspunkt legges inn her.</em></p>
+        <h4>Utsjekk og hjemreise ✈️</h4>
+        <p>Siste dag i huset. Familiene reiser hjem på ulike tidspunkt – se transport-seksjonen for individuelle flytider. Leiebil leveres Nice flyplass innen 17:00.</p>
       </div>
     </div>
 
@@ -451,7 +451,7 @@
     </div>
 
     <!-- FLY HJEM -->
-    <h3 style="margin:1.2rem 0 0.8rem; font-size:1.1rem; color:var(--tekst-lys); text-transform:uppercase; letter-spacing:0.06em;">🛬 Hjemreise – 15. juli (Ragnhild/Bjørn Atle)</h3>
+    <h3 style="margin:1.2rem 0 0.8rem; font-size:1.1rem; color:var(--tekst-lys); text-transform:uppercase; letter-spacing:0.06em;">🛬 Hjemreise – Ragnhild &amp; Bjørn Atle (15. juli)</h3>
 
     <div class="fly-kort">
       <div class="fly-header">
@@ -473,7 +473,11 @@
 
     <div class="info-grid" style="margin-top:0.5rem;">
       <div class="info-card">
-        <strong>Andre familiers hjemreise</strong>
+        <strong>Carsten/Marthe + Eva/Svein – hjemreise</strong>
+        <span>⏳ Legges inn</span>
+      </div>
+      <div class="info-card lav">
+        <strong>Reidar &amp; Anna – hjemreise</strong>
         <span>⏳ Legges inn</span>
       </div>
     </div>
@@ -690,18 +694,23 @@
 
 <!-- ===== FOOTER ===== -->
 <footer>
-  <p>🌿 Familie Frankrike 2025 · <span>En gave til Eva og Svein på 75-årsdagen</span> 🌿</p>
+  <p>🌿 Familie Frankrike 2026 · <span>Storfamilien samlet i Sør-Frankrike</span> 🌿</p>
   <p style="margin-top:0.4rem; font-size:0.78rem;">Sist oppdatert: mai 2026 · Siden videreutvikles gradvis</p>
 </footer>
 
 <script>
   // ===== SMOOTH SCROLL FOR NAVIGASJONSLENKER =====
+  // Bruker window.scrollTo med eksplisitt offset istedet for scrollIntoView,
+  // som kan feile i visse hosting-miljøer (GitHub Pages, iframes, osv.)
+  const NAV_HEIGHT = document.querySelector('nav').offsetHeight;
+
   document.querySelectorAll('nav a[href^="#"]').forEach(link => {
     link.addEventListener('click', e => {
       e.preventDefault();
       const target = document.querySelector(link.getAttribute('href'));
       if (target) {
-        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        const top = target.getBoundingClientRect().top + window.pageYOffset - NAV_HEIGHT - 8;
+        window.scrollTo({ top, behavior: 'smooth' });
       }
     });
   });
@@ -717,7 +726,7 @@
         if (active) {
           active.classList.add('aktiv');
           // Scroll den aktive lenken inn i syne i nav-baren
-          active.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+          active.scrollIntoView({ block: 'nearest', inline: 'center' });
         }
       }
     });
