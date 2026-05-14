@@ -25,8 +25,11 @@
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
 
-    /* Hindrer at sticky nav dekker seksjonsoverskrifter ved anker-scroll */
-    html { scroll-padding-top: 56px; }
+    /* ===== NATIV CSS SMOOTH SCROLL – fungerer overalt inkl. GitHub Pages og iOS Safari ===== */
+    html {
+      scroll-behavior: smooth;
+      scroll-padding-top: 56px; /* høyde på sticky nav – hindrer at overskrifter gjemmes bak */
+    }
 
     body {
       font-family: 'Lato', sans-serif;
@@ -699,23 +702,9 @@
 </footer>
 
 <script>
-  // ===== SMOOTH SCROLL FOR NAVIGASJONSLENKER =====
-  // Bruker window.scrollTo med eksplisitt offset istedet for scrollIntoView,
-  // som kan feile i visse hosting-miljøer (GitHub Pages, iframes, osv.)
-  const NAV_HEIGHT = document.querySelector('nav').offsetHeight;
-
-  document.querySelectorAll('nav a[href^="#"]').forEach(link => {
-    link.addEventListener('click', e => {
-      e.preventDefault();
-      const target = document.querySelector(link.getAttribute('href'));
-      if (target) {
-        const top = target.getBoundingClientRect().top + window.pageYOffset - NAV_HEIGHT - 8;
-        window.scrollTo({ top, behavior: 'smooth' });
-      }
-    });
-  });
-
   // ===== AKTIV SEKSJON I NAV =====
+  // Scroll håndteres av nativ CSS (scroll-behavior + scroll-padding-top på html-elementet).
+  // JS brukes kun til å markere aktiv seksjon i nav-baren og scrolle nav-lenken inn i syne.
   const sections = document.querySelectorAll('section[id]');
   const navLinks = document.querySelectorAll('nav a');
   const observer = new IntersectionObserver(entries => {
@@ -725,7 +714,6 @@
         const active = document.querySelector(`nav a[href="#${entry.target.id}"]`);
         if (active) {
           active.classList.add('aktiv');
-          // Scroll den aktive lenken inn i syne i nav-baren
           active.scrollIntoView({ block: 'nearest', inline: 'center' });
         }
       }
