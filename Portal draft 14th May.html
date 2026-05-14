@@ -1,0 +1,729 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Familie Frankrike – Juli 2025 🌞</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Lato:wght@300;400;700&display=swap" rel="stylesheet" />
+  <style>
+    /* ===== CSS VARIABLER – VARMT PROVENÇALSK TEMA ===== */
+    :root {
+      --sol:       #E8A020;   /* gyldengul – sol */
+      --sol-lys:   #F5C842;
+      --terra:     #C05A2A;   /* terrakotta */
+      --terra-lys: #E07A4A;
+      --lavendel:  #7B6FA0;
+      --lavendel-lys: #A898C8;
+      --krem:      #FDF6EC;
+      --krem-mørk: #F0E4CC;
+      --tekst:     #2C1A0E;
+      --tekst-lys: #5C3A1E;
+      --hvit:      #FFFFFF;
+      --skygge:    rgba(44,26,14,0.15);
+      --radius:    12px;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    /* Hindrer at sticky nav dekker seksjonsoverskrifter ved anker-scroll */
+    html { scroll-padding-top: 56px; }
+
+    body {
+      font-family: 'Lato', sans-serif;
+      background-color: var(--krem);
+      color: var(--tekst);
+      line-height: 1.7;
+    }
+
+    /* ===== HEADER / HERO ===== */
+    header {
+      background: linear-gradient(160deg, #1a3a5c 0%, #2e6b9e 45%, #c05a2a 100%);
+      color: var(--hvit);
+      text-align: center;
+      padding: 3.5rem 1.5rem 2.5rem;
+      position: relative;
+      overflow: hidden;
+    }
+    header::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='60' height='60'%3E%3Ccircle cx='30' cy='30' r='1.5' fill='rgba(255,255,255,0.08)'/%3E%3C/svg%3E") repeat;
+      pointer-events: none;
+    }
+    .header-sun {
+      font-size: 3.5rem;
+      display: block;
+      margin-bottom: 0.5rem;
+      animation: spin-slow 20s linear infinite;
+    }
+    @keyframes spin-slow { to { transform: rotate(360deg); } }
+    header h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(2rem, 6vw, 3.5rem);
+      font-weight: 700;
+      letter-spacing: 0.03em;
+      text-shadow: 0 2px 8px rgba(0,0,0,0.3);
+      margin-bottom: 0.4rem;
+    }
+    header p.subtitle {
+      font-size: 1.1rem;
+      font-weight: 300;
+      opacity: 0.9;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+    .header-dato {
+      display: inline-block;
+      margin-top: 1rem;
+      background: rgba(255,255,255,0.15);
+      border: 1px solid rgba(255,255,255,0.3);
+      border-radius: 999px;
+      padding: 0.4rem 1.4rem;
+      font-size: 0.95rem;
+      letter-spacing: 0.05em;
+      backdrop-filter: blur(4px);
+    }
+
+    /* ===== NAVIGASJON ===== */
+    nav {
+      background: var(--terra);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 2px 8px var(--skygge);
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none; /* Firefox */
+    }
+    nav::-webkit-scrollbar { display: none; } /* Safari/Chrome */
+    nav ul {
+      display: flex;
+      flex-wrap: nowrap;        /* aldri wrap – horisontal scroll istedet */
+      list-style: none;
+      white-space: nowrap;
+      gap: 0;
+      min-width: max-content;
+    }
+    nav ul li a {
+      display: flex;
+      align-items: center;
+      color: var(--hvit);
+      text-decoration: none;
+      padding: 0 1rem;
+      height: 48px;             /* Apple HIG: min 44px touch target */
+      font-size: 0.82rem;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      transition: background 0.2s;
+      white-space: nowrap;
+    }
+    nav ul li a:hover,
+    nav ul li a.aktiv { background: rgba(255,255,255,0.18); }
+
+    /* ===== INNHOLD ===== */
+    main { max-width: 960px; margin: 0 auto; padding: 2rem 1.25rem 4rem; }
+
+    /* ===== SEKSJONER ===== */
+    section {
+      background: var(--hvit);
+      border-radius: var(--radius);
+      box-shadow: 0 3px 16px var(--skygge);
+      padding: 2rem 2rem 2rem;
+      margin-bottom: 2.5rem;
+      border-top: 5px solid var(--sol);
+      animation: fadeUp 0.5s ease both;
+    }
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(18px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    section:nth-child(even) { border-top-color: var(--terra); }
+    section:nth-child(3n)   { border-top-color: var(--lavendel); }
+
+    section h2 {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.7rem;
+      color: var(--terra);
+      margin-bottom: 1.2rem;
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+    }
+
+    /* ===== HIGHLIGHT-BOKSER ===== */
+    .info-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+      gap: 0.8rem;
+      margin-top: 1rem;
+    }
+    .info-card {
+      background: var(--krem);
+      border-radius: 8px;
+      padding: 0.85rem 1rem;
+      border-left: 4px solid var(--sol);
+    }
+    .info-card.terra  { border-left-color: var(--terra); }
+    .info-card.lav    { border-left-color: var(--lavendel); }
+    .info-card strong { display: block; font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--tekst-lys); margin-bottom: 0.2rem; }
+    .info-card span   { font-size: 1rem; font-weight: 700; color: var(--tekst); }
+
+    /* ===== FAMILIE-LISTE ===== */
+    .familie-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+    .familie-kort {
+      background: var(--krem-mørk);
+      border-radius: 10px;
+      padding: 1rem 1.2rem;
+      text-align: center;
+    }
+    .familie-kort .emoji { font-size: 2rem; display: block; margin-bottom: 0.3rem; }
+    .familie-kort h3 { font-family: 'Playfair Display', serif; font-size: 1rem; color: var(--terra); margin-bottom: 0.3rem; }
+    .familie-kort p  { font-size: 0.88rem; color: var(--tekst-lys); }
+
+    /* ===== TIDSLINJE / REISEPLAN ===== */
+    .reise-dag {
+      display: flex;
+      gap: 1.2rem;
+      margin-bottom: 1rem;
+      align-items: flex-start;
+    }
+    .dag-dato {
+      min-width: 90px;
+      background: var(--terra);
+      color: white;
+      border-radius: 8px;
+      padding: 0.4rem 0.7rem;
+      text-align: center;
+      font-weight: 700;
+      font-size: 0.85rem;
+      line-height: 1.3;
+    }
+    .dag-innhold {
+      flex: 1;
+      border-left: 2px solid var(--krem-mørk);
+      padding-left: 1rem;
+    }
+    .dag-innhold h4 { font-size: 1rem; font-weight: 700; color: var(--tekst); margin-bottom: 0.2rem; }
+    .dag-innhold p  { font-size: 0.92rem; color: var(--tekst-lys); }
+
+    /* ===== TRANSPORT TABELL ===== */
+    .fly-kort {
+      background: linear-gradient(135deg, var(--krem) 0%, #e8f0fa 100%);
+      border-radius: 10px;
+      padding: 1.2rem 1.5rem;
+      margin-bottom: 1rem;
+      border: 1px solid #d0d8e8;
+    }
+    .fly-kort .fly-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 0.8rem;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+    .fly-kort .fly-rute { font-family: 'Playfair Display', serif; font-size: 1.2rem; color: var(--tekst); }
+    .fly-kort .fly-ref  { background: var(--terra); color: white; border-radius: 4px; padding: 0.2rem 0.6rem; font-size: 0.8rem; font-weight: 700; letter-spacing: 0.05em; }
+    .fly-detaljer {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.6rem 1rem;
+      font-size: 0.92rem;
+    }
+    .fly-detaljer .felt strong { display: block; font-size: 0.72rem; text-transform: uppercase; color: var(--tekst-lys); }
+
+    /* ===== BIL-KORT ===== */
+    .bil-kort {
+      background: var(--krem);
+      border-radius: 10px;
+      padding: 1.2rem;
+      border: 1px solid var(--krem-mørk);
+      margin-bottom: 1rem;
+    }
+    .bil-specs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.8rem;
+      margin-top: 0.8rem;
+    }
+    .spec-badge {
+      background: white;
+      border: 1px solid #ddd;
+      border-radius: 6px;
+      padding: 0.3rem 0.7rem;
+      font-size: 0.85rem;
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+    }
+
+    /* ===== PRAKTISK INFO ===== */
+    .tips-liste {
+      list-style: none;
+      margin-top: 0.8rem;
+    }
+    .tips-liste li {
+      padding: 0.6rem 0;
+      border-bottom: 1px solid var(--krem-mørk);
+      display: flex;
+      gap: 0.7rem;
+      align-items: flex-start;
+      font-size: 0.95rem;
+    }
+    .tips-liste li:last-child { border-bottom: none; }
+    .tips-liste .ikon { font-size: 1.1rem; flex-shrink: 0; margin-top: 0.1rem; }
+
+    /* ===== BADGE ===== */
+    .badge {
+      display: inline-block;
+      padding: 0.2rem 0.7rem;
+      border-radius: 999px;
+      font-size: 0.78rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .badge-sol     { background: var(--sol-lys); color: #7a4a00; }
+    .badge-terra   { background: var(--terra); color: white; }
+    .badge-lav     { background: var(--lavendel-lys); color: #2e1a4a; }
+
+    /* ===== HUSET ===== */
+    .hus-adresse {
+      background: linear-gradient(135deg, #fff3e0, #ffe0cc);
+      border-radius: 10px;
+      padding: 1.2rem 1.5rem;
+      margin-bottom: 1rem;
+      border: 1px solid #f0c090;
+    }
+    .hus-adresse .adresse-tekst { font-size: 1.15rem; font-weight: 700; color: var(--terra); }
+
+    /* ===== FOOTER ===== */
+    footer {
+      text-align: center;
+      padding: 2rem 1rem;
+      font-size: 0.85rem;
+      color: var(--tekst-lys);
+      border-top: 2px solid var(--krem-mørk);
+    }
+    footer span { font-style: italic; }
+
+    /* ===== RESPONSIV – iPhone 16 og liknende (≤430px) ===== */
+    @media (max-width: 480px) {
+      header { padding: 2.5rem 1.2rem 2rem; }
+      header p.subtitle { font-size: 0.9rem; letter-spacing: 0.04em; }
+      .header-dato { font-size: 0.82rem; padding: 0.35rem 1rem; }
+      section { padding: 1.25rem 1rem 1.25rem; }
+      section h2 { font-size: 1.4rem; }
+      main { padding: 1.5rem 0.9rem 3rem; }
+      .dag-dato { min-width: 76px; font-size: 0.8rem; }
+      .fly-kort { padding: 1rem; }
+      .bil-kort { padding: 1rem; }
+      .bil-specs { gap: 0.5rem; }
+      .spec-badge { font-size: 0.8rem; padding: 0.25rem 0.55rem; }
+      .hus-adresse { padding: 1rem; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ===== HEADER ===== -->
+<header>
+  <span class="header-sun">☀️</span>
+  <h1>Familie Frankrike 2025</h1>
+  <p class="subtitle">Grimaud · Côte d'Azur · Eva &amp; Svein 150 🎉</p>
+  <span class="header-dato">4. juli – 11. juli 2025 · 14 personer · 7 netter</span>
+</header>
+
+<!-- ===== NAVIGASJON ===== -->
+<nav>
+  <ul>
+    <li><a href="#familien">👨‍👩‍👧‍👦 Familien</a></li>
+    <li><a href="#reiseplan">📅 Reiseplan</a></li>
+    <li><a href="#transport">✈️ Transport</a></li>
+    <li><a href="#huset">🏡 Huset</a></li>
+    <li><a href="#aktiviteter">🏊 Aktiviteter</a></li>
+    <li><a href="#mat">🍽️ Mat</a></li>
+    <li><a href="#praktisk">ℹ️ Praktisk</a></li>
+    <li><a href="#fakta">🗺️ Fakta</a></li>
+  </ul>
+</nav>
+
+<!-- ===== MAIN ===== -->
+<main>
+
+  <!-- FAMILIEN -->
+  <section id="familien">
+    <h2>👨‍👩‍👧‍👦 Familien</h2>
+    <p>Ferien er en <strong>75-årsgave til Eva og Svein</strong> – en hel uke i Sør-Frankrike med alle barna og barnebarna. Totalt <strong>14 personer</strong>.</p>
+
+    <div class="familie-grid" style="margin-top:1.4rem;">
+      <div class="familie-kort">
+        <span class="emoji">👴👵</span>
+        <h3>Eva &amp; Svein</h3>
+        <p>Æresgjestene – 75 år! 🎂</p>
+      </div>
+      <div class="familie-kort">
+        <span class="emoji">👫</span>
+        <h3>Ragnhild &amp; Bjørn Atle</h3>
+        <p>Med Sigrid og Sverre</p>
+      </div>
+      <div class="familie-kort">
+        <span class="emoji">👫</span>
+        <h3>Carsten &amp; Marthe</h3>
+        <p>Med Nicolay, Elisabeth og Charlotte</p>
+      </div>
+      <div class="familie-kort">
+        <span class="emoji">👫</span>
+        <h3>Reidar &amp; Anna</h3>
+        <p>Ankommer senere i uken</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- REISEPLAN -->
+  <section id="reiseplan">
+    <h2>📅 Reiseplan</h2>
+
+    <div class="reise-dag">
+      <div class="dag-dato">Lør<br>4. jul</div>
+      <div class="dag-innhold">
+        <h4>Ankomstdag 🛬</h4>
+        <p>Ragnhild, Bjørn Atle + barn, Carsten + familie og Eva &amp; Svein flyr Oslo–Nice (SK 4703, avg 08:50, ank 11:50). Leiebil hentes kl. 12:15 på Nice flyplass. Shuttlebuss for øvrige passasjerer. Innsjekk i huset, 6 Bd du Lion, Grimaud.</p>
+      </div>
+    </div>
+
+    <div class="reise-dag">
+      <div class="dag-dato">Søn–Fre<br>5.–10. jul</div>
+      <div class="dag-innhold">
+        <h4>Fellesuken 🌊</h4>
+        <p>Aktiviteter, strandturer, utflukter og familiesamvær. Reidar og Anna ankommer i løpet av uken. Se aktiviteter og måltidsplan for detaljer.</p>
+      </div>
+    </div>
+
+    <div class="reise-dag">
+      <div class="dag-dato">Lør<br>11. jul</div>
+      <div class="dag-innhold">
+        <h4>Hjemreisedag ✈️</h4>
+        <p>Ragnhild, Bjørn Atle + barn flyr Nice–Oslo 18:05 (SK 4706, ank Oslo 21:00). Leiebil leveres Nice flyplass innen 17:00. <em>Andre familiers hjemreisetidspunkt legges inn her.</em></p>
+      </div>
+    </div>
+
+    <div class="reise-dag">
+      <div class="dag-dato" style="background:var(--lavendel);">TBD<br>Reidar</div>
+      <div class="dag-innhold">
+        <h4>Reidar &amp; Anna – ankomst/avreise</h4>
+        <p><em>Legges inn når informasjon er tilgjengelig.</em></p>
+      </div>
+    </div>
+  </section>
+
+  <!-- TRANSPORT -->
+  <section id="transport">
+    <h2>✈️ Transport</h2>
+
+    <!-- FLY TIL NICE -->
+    <h3 style="margin-bottom:0.8rem; font-size:1.1rem; color:var(--tekst-lys); text-transform:uppercase; letter-spacing:0.06em;">🛫 Utreise – 4. juli</h3>
+
+    <div class="fly-kort">
+      <div class="fly-header">
+        <span class="fly-rute">Oslo (OSL) → Nice (NCE)</span>
+        <span class="fly-ref">XR9QNE</span>
+      </div>
+      <div class="fly-detaljer">
+        <div class="felt"><strong>Dato</strong>Lørdag 4. juli 2026</div>
+        <div class="felt"><strong>Avgang</strong>08:50</div>
+        <div class="felt"><strong>Ankomst</strong>11:50</div>
+        <div class="felt"><strong>Flyselskap</strong>SAS – SK 4703</div>
+        <div class="felt"><strong>Flytype</strong>Embraer 195 (SAS Link)</div>
+        <div class="felt"><strong>Terminal</strong>Ankomstterminal 2, Nice</div>
+      </div>
+      <div style="margin-top:0.8rem;">
+        <span class="badge badge-sol">Ragnhild &amp; Bjørn Atle + barn</span>
+        <span class="badge badge-lav" style="margin-left:0.4rem;">+ Carsten/Marthe + Eva/Svein (antatt)</span>
+      </div>
+    </div>
+
+    <!-- FLY HJEM -->
+    <h3 style="margin:1.2rem 0 0.8rem; font-size:1.1rem; color:var(--tekst-lys); text-transform:uppercase; letter-spacing:0.06em;">🛬 Hjemreise – 15. juli (Ragnhild/Bjørn Atle)</h3>
+
+    <div class="fly-kort">
+      <div class="fly-header">
+        <span class="fly-rute">Nice (NCE) → Oslo (OSL)</span>
+        <span class="fly-ref">ZVVUMS</span>
+      </div>
+      <div class="fly-detaljer">
+        <div class="felt"><strong>Dato</strong>Onsdag 15. juli 2026</div>
+        <div class="felt"><strong>Avgang</strong>18:05</div>
+        <div class="felt"><strong>Ankomst</strong>21:00</div>
+        <div class="felt"><strong>Flyselskap</strong>SAS – SK 4706</div>
+        <div class="felt"><strong>Flytype</strong>Airbus A320neo</div>
+        <div class="felt"><strong>Terminal</strong>Avgangsterminal 2, Nice</div>
+      </div>
+      <div style="margin-top:0.8rem;">
+        <span class="badge badge-sol">Bjørn Atle, Ragnhild, Sigrid &amp; Sverre</span>
+      </div>
+    </div>
+
+    <div class="info-grid" style="margin-top:0.5rem;">
+      <div class="info-card">
+        <strong>Andre familiers hjemreise</strong>
+        <span>⏳ Legges inn</span>
+      </div>
+    </div>
+
+    <!-- LEIEBIL -->
+    <h3 style="margin:1.8rem 0 0.8rem; font-size:1.1rem; color:var(--tekst-lys); text-transform:uppercase; letter-spacing:0.06em;">🚗 Leiebil – Flex To Go</h3>
+
+    <div class="bil-kort">
+      <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:0.5rem;">
+        <div>
+          <div style="font-size:1.15rem; font-weight:700;">Ford Focus <span style="font-weight:300; font-size:0.9rem;">(eller tilsvarende)</span></div>
+          <div style="font-size:0.85rem; color:var(--tekst-lys);">Res.nr: <strong>0F00001173</strong> &nbsp;|&nbsp; Flex To Go</div>
+        </div>
+        <span class="badge badge-terra">BETALT · 505,44 EUR</span>
+      </div>
+      <div class="bil-specs">
+        <span class="spec-badge">⚙️ Manuell</span>
+        <span class="spec-badge">⛽ Bensin – full tank</span>
+        <span class="spec-badge">👥 5 seter</span>
+        <span class="spec-badge">🧳 2 kofferter</span>
+        <span class="spec-badge">❄️ Aircondition</span>
+      </div>
+      <div style="margin-top:1rem; font-size:0.9rem; color:var(--tekst-lys);">
+        <strong>Henting:</strong> 4. juli kl. 12:15 · Nice flyplass (Terminal 2 → trikk til T1 → mot Sheraton-hotellet → ECF-skiltet)<br>
+        <strong>Innlevering:</strong> 15. juli kl. 17:00 · Samme sted<br>
+        <strong>Adresse utleiested:</strong> Flex To Go Nice, 455 Prom. des Anglais, 06200 Nice
+      </div>
+      <div style="margin-top:0.8rem; background:#fff8f0; border-radius:6px; padding:0.7rem 1rem; font-size:0.88rem; border-left:3px solid var(--sol);">
+        ⚠️ <strong>Depositum:</strong> 850 EUR blokkeres på kortet ved henting. <strong>Egenandel skade/tyveri:</strong> 2 500 EUR.
+      </div>
+    </div>
+
+    <!-- SHUTTLEBUSS -->
+    <h3 style="margin:1.8rem 0 0.8rem; font-size:1.1rem; color:var(--tekst-lys); text-transform:uppercase; letter-spacing:0.06em;">🚐 Shuttlebuss</h3>
+
+    <div class="bil-kort" style="border-left:4px solid var(--lavendel);">
+      <div style="font-size:1.05rem; font-weight:700; margin-bottom:0.5rem;">Privat shuttle – flyplass til hus</div>
+      <div style="font-size:0.92rem; color:var(--tekst-lys);">
+        For de resterende passasjerene (ca. <strong>8 personer</strong>) som ikke er i leiebilen.<br>
+        <strong>Pris:</strong> ca. 450 EUR (innhentet tilbud)<br>
+        <strong>Rute:</strong> Nice Côte d'Azur flyplass → 6 Bd du Lion, 83310 Grimaud
+      </div>
+      <div style="margin-top:0.8rem; background:#f0f4ff; border-radius:6px; padding:0.7rem 1rem; font-size:0.88rem; border-left:3px solid var(--lavendel);">
+        ℹ️ Bestillingsdetaljer og kontaktinfo for sjåfør legges inn her når bekreftet.
+      </div>
+    </div>
+
+    <div class="info-grid">
+      <div class="info-card terra">
+        <strong>Kjøretid flyplass → hus</strong>
+        <span>Ca. 1 time 20 min (90 km via A8/A57)</span>
+      </div>
+      <div class="info-card lav">
+        <strong>Nærmeste by</strong>
+        <span>Grimaud / Saint-Tropez (15 min)</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- HUSET -->
+  <section id="huset">
+    <h2>🏡 Huset</h2>
+
+    <div class="hus-adresse">
+      <div class="adresse-tekst">6 Bd du Lion, 83310 Grimaud</div>
+      <div style="font-size:0.9rem; margin-top:0.3rem; color:var(--tekst-lys);">Piscine Privée et Vue sur la Mer – Privat basseng og havutsikt</div>
+    </div>
+
+    <p>Huset rommer hele familien på 14 personer og er sentralt plassert i Grimaud-området, med nærhet til Saint-Tropez og de vakre strandene på Côte de Maures.</p>
+
+    <div class="info-grid" style="margin-top:1rem;">
+      <div class="info-card">
+        <strong>Innsjekk</strong>
+        <span>4. juli (lørdag)</span>
+      </div>
+      <div class="info-card">
+        <strong>Utsjekk</strong>
+        <span>11. juli (lørdag)</span>
+      </div>
+      <div class="info-card terra">
+        <strong>Netter</strong>
+        <span>7 netter</span>
+      </div>
+      <div class="info-card lav">
+        <strong>Fasiliteter</strong>
+        <span>Privat basseng · Havutsikt</span>
+      </div>
+    </div>
+
+    <ul class="tips-liste" style="margin-top:1.2rem;">
+      <li><span class="ikon">🔑</span><div>Nøkkelkode/innsjekkinformasjon: <em>legges inn</em></div></li>
+      <li><span class="ikon">📶</span><div>WiFi-passord: <em>legges inn</em></div></li>
+      <li><span class="ikon">🚗</span><div>Parkering: Tilgjengelig på eiendommen</div></li>
+      <li><span class="ikon">🏊</span><div>Basseng: Privat – kun for familien</div></li>
+      <li><span class="ikon">🛒</span><div>Nærmeste dagligvare: Intermarché i Grimaud (ca. 5 min med bil)</div></li>
+    </ul>
+  </section>
+
+  <!-- AKTIVITETER -->
+  <section id="aktiviteter">
+    <h2>🏊 Aktiviteter</h2>
+    <p>Grimaud-området har et rikt tilbud for alle aldre – fra badeliv og bateau til provençalske markedsplasser.</p>
+
+    <div class="info-grid" style="margin-top:1.2rem;">
+      <div class="info-card">
+        <strong>🏖️ Strand</strong>
+        <span>Plage de Gigaro (La Croix-Valmer) – familievennlig og vakker</span>
+      </div>
+      <div class="info-card terra">
+        <strong>⛵ Båt</strong>
+        <span>Dagstur til Saint-Tropez med ferge fra Port Grimaud</span>
+      </div>
+      <div class="info-card lav">
+        <strong>🏰 Grimaud</strong>
+        <span>Det middelalderske borgen og den vakre landsbyen</span>
+      </div>
+      <div class="info-card">
+        <strong>🛍️ Marked</strong>
+        <span>Markedet i Grimaud (tirsdag og fredag morgen)</span>
+      </div>
+      <div class="info-card terra">
+        <strong>🌊 Port Grimaud</strong>
+        <span>«Provences Venezia» – sjarmerende kanalby med restauranter</span>
+      </div>
+      <div class="info-card lav">
+        <strong>🎠 Barn</strong>
+        <span>Aqualand St-Tropez (vannpark) – perfekt for barna!</span>
+      </div>
+    </div>
+
+    <div style="margin-top:1.2rem; background:var(--krem); border-radius:8px; padding:1rem; font-size:0.92rem; color:var(--tekst-lys); border-left:4px solid var(--sol);">
+      📝 <strong>Tips:</strong> Aktivitetsplan med fordeling av dager og ansvar legges inn her etter hvert.
+    </div>
+  </section>
+
+  <!-- MAT -->
+  <section id="mat">
+    <h2>🍽️ Mat &amp; Måltidsplan</h2>
+    <p>Med 14 personer er det smart å planlegge hvem som lager mat hvilken dag. Her er noen provençalske idéer til retter som passer for hele familien.</p>
+
+    <ul class="tips-liste">
+      <li><span class="ikon">🥗</span><div><strong>Niçoise-salat</strong> – den lokale klassikeren med tunfisk, oliven, egg og ansjos</div></li>
+      <li><span class="ikon">🫙</span><div><strong>Ratatouille</strong> – provençalsk grønnsaksgryte, perfekt i varmen</div></li>
+      <li><span class="ikon">🐟</span><div><strong>Bouillabaisse</strong> – tradisjonell fiskesuppe fra Marseille, festmåltid!</div></li>
+      <li><span class="ikon">🥩</span><div><strong>BBQ-kveld</strong> – grillkveld ved bassenget med lokale pølser og lammekoteletter</div></li>
+      <li><span class="ikon">🧀</span><div><strong>Ost &amp; charcuterie-bord</strong> – lokale oster fra markedet, olivener og tapenade</div></li>
+      <li><span class="ikon">🍰</span><div><strong>Bursdagsmiddag for Eva &amp; Svein</strong> – spesiell middag, detaljer TBD</div></li>
+    </ul>
+
+    <div style="margin-top:1.2rem; background:var(--krem); border-radius:8px; padding:1rem; font-size:0.92rem; color:var(--tekst-lys); border-left:4px solid var(--terra);">
+      📝 Detaljert måltidsplan med ansvarsliste per dag legges inn her.
+    </div>
+  </section>
+
+  <!-- PRAKTISK INFO -->
+  <section id="praktisk">
+    <h2>ℹ️ Praktisk informasjon</h2>
+
+    <ul class="tips-liste">
+      <li><span class="ikon">🇫🇷</span><div><strong>Land:</strong> Frankrike – Schengen-sonen. Gyldig pass eller ID-kort holder for norske borgere.</div></li>
+      <li><span class="ikon">💶</span><div><strong>Valuta:</strong> Euro (EUR). Bankkort aksepteres de fleste steder. Ta med litt kontanter til markeder.</div></li>
+      <li><span class="ikon">🌡️</span><div><strong>Vær:</strong> Juli i Grimaud: 28–33°C, svært lite nedbør. Solfaktor 50 er anbefalt!</div></li>
+      <li><span class="ikon">🚑</span><div><strong>Nødnummer:</strong> 112 (EU-nødnummer), 15 (SAMU – medisinsk), 17 (politi), 18 (brann)</div></li>
+      <li><span class="ikon">🏥</span><div><strong>Nærmeste sykehus:</strong> Centre Hospitalier de Saint-Tropez (ca. 15 min)</div></li>
+      <li><span class="ikon">📱</span><div><strong>Roaming:</strong> EU-roaming inkludert for norske abonnementer. Sjekk med operatør.</div></li>
+      <li><span class="ikon">🛒</span><div><strong>Handel:</strong> Intermarché Grimaud, Leclerc i Sainte-Maxime (15 min), samt lokale boulangeries.</div></li>
+      <li><span class="ikon">⛽</span><div><strong>Bensin:</strong> Leveres med full tank, returneres med full tank. Nærmeste bensinstasjon: Grimaud sentrum.</div></li>
+      <li><span class="ikon">🅿️</span><div><strong>Parkering Nice flyplass:</strong> Korttidsparkering ved Terminal 2. Leiebil hentes ved T1 (gratis trikk fra T2).</div></li>
+    </ul>
+
+    <div style="margin-top:1.5rem;">
+      <div style="font-family:'Playfair Display',serif; font-size:1.1rem; margin-bottom:0.7rem; color:var(--terra);">📞 Viktige kontakter</div>
+      <div class="info-grid">
+        <div class="info-card">
+          <strong>Bjørn Atle (koordinator)</strong>
+          <span>+47 952 94 254</span>
+        </div>
+        <div class="info-card terra">
+          <strong>Flex To Go (leiebil)</strong>
+          <span>Se bestillingsepost</span>
+        </div>
+        <div class="info-card lav">
+          <strong>Shuttlebuss</strong>
+          <span>⏳ Legges inn</span>
+        </div>
+        <div class="info-card">
+          <strong>Utleier / huset</strong>
+          <span>⏳ Legges inn</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAKTA OM STEDET -->
+  <section id="fakta">
+    <h2>🗺️ Grimaud &amp; Côte de Maures</h2>
+    <p>Ti ting det er greit å vite om området dere besøker – og et par ting som overrasker selv de reisevante.</p>
+
+    <ul class="tips-liste" style="margin-top:1.2rem;">
+      <li><span class="ikon">🏰</span><div><strong>Middelalderborg øverst i åsen</strong> – Château de Grimaud dateres tilbake til 900-tallet. Ruinene er gratis å besøke og gir panoramautsikt over Golfe de Saint-Tropez og ut mot Middelhavet.</div></li>
+      <li><span class="ikon">⛵</span><div><strong>Port Grimaud – bygd fra bunnen av</strong> – Kanallandsbyen ble anlagt i 1966 av arkitekt François Spoerry og kalles gjerne «Provences Venezia». Alle husene har privat bro og båtplass direkte fra hagen.</div></li>
+      <li><span class="ikon">🌊</span><div><strong>Golfe de Saint-Tropez</strong> – Bukten er omgitt av de jomfruelige strandene på Côte de Maures. Vannet holder typisk 24–26 °C i juli – badetemperatur fra dag én.</div></li>
+      <li><span class="ikon">🌿</span><div><strong>Maures-massivet</strong> – Grimaud ligger mot foten av dette eldgamle, skogkledde fjellmassivet. Her vokser kork- og kastanjetrær, og man kan se skilpadder i naturen (den sjeldne Hermann-skilpadden er fredet her).</div></li>
+      <li><span class="ikon">🍷</span><div><strong>Provence rosé – verdens mest kjente</strong> – Regionen er hjemstedet for den bleke, tørre roséen som har blitt en global trend. Lokale vinmerker som Château Minuty og Domaines Ott holder til rett utenfor Saint-Tropez.</div></li>
+      <li><span class="ikon">🛒</span><div><strong>Marked to ganger i uken</strong> – Grimauds utendørsmarked er tirsdag og fredag formiddag i landsbyen. Her selges lokale oster, oliven, tapenade, frukt og lavendelprodukte – perfekt for familiens frokostbord.</div></li>
+      <li><span class="ikon">🌡️</span><div><strong>Klima i juli</strong> – Gjennomsnittlig dagstemperatur er 28–33 °C, nesten null nedbør og over 11 timers sol per dag. Varmeste del av dagen er 13–17, da bassenget er gullverdt.</div></li>
+      <li><span class="ikon">🚢</span><div><strong>Saint-Tropez nås enklest med båt</strong> – Sentrum har svært begrenset parkering. Fergen fra Port Grimaud tar ca. 15 minutter og er en opplevelse i seg selv – og man slipper parkeringskaoset.</div></li>
+      <li><span class="ikon">🎭</span><div><strong>Fun fact #1 – Bardot-effekten</strong> – Saint-Tropez var en ukjent fiskerlandsby inntil Brigitte Bardot spilte inn «Og Gud skapte kvinnen» her i 1956. Nå er det et av Europas mest besøkte sommermål – og ironisk nok hater Bardot selv turistmassene og bor her fortsatt.</div></li>
+      <li><span class="ikon">🐢</span><div><strong>Fun fact #2 – skilpaddehovedstaden</strong> – I Village des Tortues i Carnoules (40 min fra Grimaud) kan man møte hundrevis av Hermann-skilpadder, og barna kan se på egg som klekkes. Denne arten har levd i Maures-skogene i over 15 000 år.</div></li>
+    </ul>
+  </section>
+
+</main>
+
+<!-- ===== FOOTER ===== -->
+<footer>
+  <p>🌿 Familie Frankrike 2025 · <span>En gave til Eva og Svein på 75-årsdagen</span> 🌿</p>
+  <p style="margin-top:0.4rem; font-size:0.78rem;">Sist oppdatert: mai 2026 · Siden videreutvikles gradvis</p>
+</footer>
+
+<script>
+  // ===== SMOOTH SCROLL FOR NAVIGASJONSLENKER =====
+  document.querySelectorAll('nav a[href^="#"]').forEach(link => {
+    link.addEventListener('click', e => {
+      e.preventDefault();
+      const target = document.querySelector(link.getAttribute('href'));
+      if (target) {
+        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    });
+  });
+
+  // ===== AKTIV SEKSJON I NAV =====
+  const sections = document.querySelectorAll('section[id]');
+  const navLinks = document.querySelectorAll('nav a');
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        navLinks.forEach(l => l.classList.remove('aktiv'));
+        const active = document.querySelector(`nav a[href="#${entry.target.id}"]`);
+        if (active) {
+          active.classList.add('aktiv');
+          // Scroll den aktive lenken inn i syne i nav-baren
+          active.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+        }
+      }
+    });
+  }, { rootMargin: '-40% 0px -55% 0px' });
+  sections.forEach(s => observer.observe(s));
+</script>
+
+</body>
+</html>
