@@ -168,6 +168,16 @@ h3.under:first-of-type{margin-top:.6rem}
 .kort.l{border-left-color:var(--lavendel)}
 .kort strong{display:block;font-size:.72rem;text-transform:uppercase;letter-spacing:.06em;color:var(--blekk-2);margin-bottom:.15rem}
 .kort span{font-weight:700;color:var(--blekk);font-size:.98rem}
+.kort .kort-lenke{display:block;margin-top:.45rem;font-size:.8rem;font-weight:700;color:var(--terra);text-decoration:none}
+.kort .kort-lenke:active{opacity:.7}
+
+/* Kart-/rute-knapp */
+.kart-knapp{
+  display:inline-flex;align-items:center;gap:.4rem;margin-top:.5rem;
+  background:var(--terra);color:#fff;text-decoration:none;font-weight:700;font-size:.86rem;
+  border-radius:8px;padding:.5rem .95rem;
+}
+.kart-knapp:active{opacity:.85}
 
 /* ===== SNARVEIER (landingsside → undersider) ===== */
 .snarvei{
