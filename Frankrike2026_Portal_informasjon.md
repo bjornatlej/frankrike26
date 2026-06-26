@@ -94,7 +94,7 @@ Fly: SK 4706 Â· SAS Â· Airbus A320neo
 Avgang: 18:05 Â· Ankomst: 21:00
 Avgangsterminal: Terminal 2, Nice
 Referanse: ZVVUMS
-Reisende: BjÃ¸rn Atle, Ragnhild, Sigrid, Sverre
+Reisende: Bjørn Atle, Sigrid, Sverre (Ragnhild reiser hjem 11. juli – se egen seksjon)
 
 ---
 
@@ -135,6 +135,23 @@ Egenandel skade/tyveri: 2 500 EUR
 Reisende i leiebil: BjÃ¸rn Atle, Ragnhild, Sigrid, Sverre
 
 ---
+
+
+## SYKKELLEIE – BLUE BIKES CAVALAIRE (Bjørn Atle)
+
+Utleier: Blue Bikes Cavalaire, Rue du Port, 83240 Cavalaire-sur-Mer
+Kontakt: +33 4 94 64 18 17 · bluebikes.cavalaire@orange.fr
+Kontraktsnr: Contrat-de-Location-13062026-5178
+Sykkel: Vélo de course carbone «Prestige» (karbon racersykkel) · 1 stk
+Leieperiode: Onsdag 8. juli kl. 15:00 → fredag 10. juli kl. 15:00 (2 dager)
+Pris: 120 EUR totalt (12 EUR betalt med kort 12.06, 108 EUR gjenstår)
+Depositum: 1 500 EUR
+Leietaker: Bjørn Atle Jacobsen
+
+
+
+---
+
 
 ## SHUTTLEBUSS
 
@@ -205,7 +222,21 @@ Ideer til retter:
 - Bouillabaisse
 - BBQ-kveld ved bassenget
 - Ost & charcuterie-bord fra markedet
-- Bursdagsmiddag for Eva & Svein [detaljer TBD]
+
+---
+
+## DAGSPROGRAM (fellesdager 4.–10. juli)
+
+Struktur per dag: Frokost / Formiddag / Lunsj / Ettermiddag / Middag.
+
+Lør 4. juli (Ankomst): Formiddag = fly lander 11:50 · Ettermiddag = innsjekk hus
+Søn 5. juli: Ettermiddag = basseng · Middag = kokk i huset
+Man 6. juli: [LEGGES INN]
+Tir 7. juli: Formiddag = Port Grimaud · Ettermiddag = Port Grimaud
+Ons 8. juli: [LEGGES INN]
+Tor 9. juli: [LEGGES INN]
+Fre 10. juli: [LEGGES INN]
+
 
 ---
 
@@ -306,3 +337,35 @@ Fremside (landingsside): Sammendrag av nÃ¸kkelinformasjon (reisende, datoer, t
 Huset vÃ¥rt: SÃ¥ mye praktisk info og bilder om huset som mulig. Egen seksjon "MÃ¥ltid i huset". Kokk kan leies. NÃ¸kkelinfo om nabolaget nederst (hvilket sted er dette).
 Aktiviteter og restauranter: NÃ¦rmeste strand, andre aktiviteter for barn og voksne, restauranter.
 Reisedetaljer: Detaljer rundt fly, transit og leiebil (flight nummer, reservasjonsnummer, og annen detaljinformasjon, transittilbud etc).
+
+
+--------
+
+## REISE BJØRN ATLE, SIGRID & SVERRE – 11.–15. JULI
+
+Etter utsjekk fra huset 11. juli blir Bjørn Atle, Sigrid og Sverre igjen i 4 netter før hjemreise 15. juli.
+
+### Overnatting 1: Hotel Le Catalogne (Van der Valk)
+Adresse: Avenue Lucien Boeuf, 83370 Saint-Aygulf
+Periode: Lør 11. juli (innsjekk 16:00) → man 13. juli (utsjekk 12:00), 2 netter
+Rom: Triple room · frokost inkludert
+Res.nr: CAT-001431 · Pris: 638,92 EUR (ikke betalt)
+Kontakt: +33 4 94 81 01 44 · catalogne@valk.com
+
+### Overnatting 2: Le Hameau
+Adresse: 528 route de la Colle, 06570 Saint-Paul-de-Vence
+Periode: Man 13. juli (innsjekk 15:00–20:00) → ons 15. juli (utsjekk før 11:00), 2 netter
+Rom: Classic Quadruple Room (4-mannsrom) · frokost inkludert
+Res.nr: 3941 · booket i Ragnhilds navn · Pris: 694,76 EUR (ikke betalt)
+Reelt belegg: 1 voksen + Sigrid og Sverre
+Kontakt: +33 4 83 39 95 94 · reservation@le-hameau.com
+
+### Dagsprogram (FORSLAG – IKKE VERIFISERT)
+Lør 11. juli: Utsjekk Grimaud → Saint-Aygulf (uverifisert ~20 min), innsjekk Le Catalogne 16:00, rolig kveld
+Søn 12. juli: Arènes de Fréjus / Base Nature; strand (Plage de la Garonette / hotellstrand); nattmarked Saint-Raphaël (uverifisert til 00:30)
+Man 13. juli: Aquasplash Antibes (uverifisert fra 10:00) → Saint-Paul-de-Vence, innsjekk Le Hameau; middag (Café de la Place / La Colombe d'Or)
+Tir 14. juli (Bastilledagen): fri dag Saint-Paul-de-Vence; fyrverkeri Cagnes-sur-Mer (uverifisert ~10 min) eller lokalt
+Ons 15. juli: frokost Le Hameau; valgfri Fondation Maeght (fra 10:00); utsjekk før 11:00; lunsj mot flyplassen (Juan-les-Pins); levere leiebil; SK 4706 18:05 → Oslo
+
+
+
