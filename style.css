@@ -219,6 +219,8 @@ h3.under:first-of-type{margin-top:.6rem}
 .prog-rad .nar{font-size:.68rem;text-transform:uppercase;letter-spacing:.05em;color:var(--blekk-2);font-weight:700;align-self:center}
 .prog-rad .hva{color:var(--blekk)}
 .prog-rad .hva.tom{color:var(--blekk-2);opacity:.45}
+.prog-rad .hva.kokk{color:var(--terra);font-weight:700}
+.prog-rad .hva.kokk .ant{display:block;font-weight:400;font-size:.74rem;color:var(--blekk-2)}
 
 /* ===== TIDSLINJE ===== */
 .dag{display:flex;gap:1rem;margin-bottom:1rem}
