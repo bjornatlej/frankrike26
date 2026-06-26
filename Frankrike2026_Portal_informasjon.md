@@ -4,7 +4,6 @@ Dette dokumentet er kildedata for familieferieportalen.Sist oppdatert: 26. juni 
 
 * * *
 
-
 ## FAMILIEN
 
 * Eva & Svein (begge 75 år)
@@ -191,7 +190,15 @@ Ideer til retter:
 
 Struktur per dag: Frokost / Formiddag / Lunsj / Ettermiddag / Middag.
 
-Lør 4. juli (Ankomst): Formiddag = fly lander 11:50 · Ettermiddag = innsjekk husSøn 5. juli: Ettermiddag = basseng · Middag = kokk i husetMan 6. juli: [LEGGES INN]Tir 7. juli: Formiddag = Port Grimaud · Ettermiddag = Port GrimaudOns 8. juli: [LEGGES INN]Tor 9. juli: [LEGGES INN]Fre 10. juli: [LEGGES INN]
+Innleid kokk lager måltidene markert "kokk i huset". Antall øker fra 6 til 8 voksne fra 8. juli (Reidar & Anna ankommer).
+
+* Lør 4. juli (Ankomst): Formiddag = fly lander 11:50. Ettermiddag = innsjekk hus. Middag = kokk i huset (6 voksne + 4 barn).
+* Søn 5. juli: Ettermiddag = basseng. Middag = kokk i huset (6 voksne + 4 barn).
+* Man 6. juli: Lunsj = kokk i huset (6 voksne + 4 barn).
+* Tir 7. juli: Formiddag = Port Grimaud. Ettermiddag = Port Grimaud. Middag = kokk i huset (6 voksne + 4 barn).
+* Ons 8. juli: Lunsj = kokk i huset (8 voksne + 4 barn).
+* Tor 9. juli: Middag = kokk i huset (8 voksne + 4 barn).
+* Fre 10. juli: Lunsj = kokk i huset (8 voksne + 4 barn). Middag = Reidar ansvarlig.
 
 * * *
 
