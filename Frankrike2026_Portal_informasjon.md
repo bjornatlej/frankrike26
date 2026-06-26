@@ -1,371 +1,181 @@
-# Frankrike 2026 â€“ Reiseinformasjon
+Frankrike 2026 – Reiseinformasjon
+Dette dokumentet er kildedata for familieferieportalen. Sist oppdatert: 26. juni 2026
 
-Dette dokumentet er kildedata for familieferieportalen.
-Sist oppdatert: juni 2026
+FAMILIEN
+Eva & Svein (begge 75 år)
+Ragnhild & Bjørn Atle, med barna Sigrid (7 år) og Sverre (5 år)
+Carsten & Marthe, med barna Nicolay, Elisabeth og Charlotte
+Reidar & Anna (ankommer senere i uken)
+Totalt 14 personer. Ragnhild, Carsten og Reidar er barn av Eva og Svein.
 
----
-
-## FAMILIEN
-
-- Eva & Svein (begge 75 Ã¥r)
-- Ragnhild & BjÃ¸rn Atle, med barna Sigrid (7 Ã¥r) og Sverre (5 Ã¥r)
-- Carsten & Marthe, med barna Nicolay, Elisabeth og Charlotte
-- Reidar & Anna (ankommer senere i uken)
-
-Totalt 14 personer.
-Ragnhild, Carsten og Reidar er barn av Eva og Svein.
-
----
-
-## HUSET
-
-Navn: Piscine PrivÃ©e et Vue sur la Mer
-Adresse: 6 Bd du Lion, 83310 Grimaud, France
-Utleierlenke: https://home.tg/go/kd833we85
-Innsjekk: LÃ¸rdag 4. juli 2026
-Utsjekk: LÃ¸rdag 11. juli 2026
-Netter: 7
-Fasiliteter: Privat basseng, havutsikt, parkering, aircondition (antatt), fullt utstyrt kjÃ¸kken
-
+HUSET
+Navn: Piscine Privée et Vue sur la Mer Adresse: 6 Bd du Lion, 83310 Grimaud, France Utleierlenke: https://home.tg/go/kd833we85 Innsjekk: Lørdag 4. juli 2026 Utsjekk: Lørdag 11. juli 2026 Netter: 7 Fasiliteter: Privat basseng, havutsikt, parkering, aircondition (antatt), fullt utstyrt kjøkken
 I Claude Project Knowledge ligger det bilder
-
-NÃ¸kkelkode/innsjekkinfo: [LEGGES INN]
-WiFi-passord: [LEGGES INN]
-Kontakt utleier: [LEGGES INN]
-
+Nøkkelkode/innsjekkinfo: [LEGGES INN] WiFi-passord: [LEGGES INN] Kontakt utleier: [LEGGES INN]
 Beskrivelse av hus fra nettside utleier:
-
-DÃ©couvrez votre villa familiale idÃ©ale Ã  Grimaud, un vÃ©ritable havre de paix pour des vacances inoubliables. Avec ses 6 chambres spacieuses et 5 salles de bains, cette villa peut accueillir jusqu'Ã  14 personnes, ce qui en fait l'endroit parfait pour des retrouvailles en famille ou entre amis.
-
-**CaractÃ©ristiques de la Villa :**
-
-- **Espace de Vie Confortable :** Profitez d'un salon lumineux et accueillant, idÃ©al pour se dÃ©tendre aprÃ¨s une journÃ©e d'exploration. La villa est Ã©quipÃ©e d'une tÃ©lÃ©vision, d'une table de jeu et d'un piano.
-
-- **Cuisine EntiÃ¨rement Ã‰quipÃ©e :** PrÃ©parez vos repas dans une grande cuisine, dotÃ©e d'un rÃ©frigÃ©rateur, d'un four, d'un micro-ondes et d'une machine Ã  cafÃ©. Que ce soit pour un petit-dÃ©jeuner en famille ou un dÃ®ner convivial, vous trouverez tout ce dont vous avez besoin.
-
-- **Chambres Confortables :** Chaque chambre est conÃ§ue pour offrir un maximum de confort, avec des draps de qualitÃ© et un espace suffisant pour se sentir chez soi.
-
-- **Salles de Bains :** Les salles de bains sont Ã©quipÃ©es de tout le nÃ©cessaire, y compris des serviettes et un sÃ¨che-cheveux.
-
-**Espaces ExtÃ©rieurs :**
-
-- **Piscine PrivÃ©e :** DÃ©tendez-vous au bord de la piscine chauffÃ©e*, parfaite pour se rafraÃ®chir pendant les journÃ©es ensoleillÃ©es.
-
-- **Jardin Verdoyant :** Le jardin clÃ´turÃ© offre un espace sÃ©curisÃ© pour les enfants, avec des zones pour jouer et explorer.
-
-- **Terrasse :** Profitez de moments de convivialitÃ© sur la terrasse, idÃ©ale pour des barbecues en plein air.
-
-**Ã‰quipements SupplÃ©mentaires :**
-
-La villa est Ã©quipÃ©e de la climatisation dans les chambres, du Wi-Fi, d'un lave-linge et d'un sÃ¨che-linge, ainsi que d'un fer Ã  repasser et d'un coffre-fort pour votre tranquillitÃ© d'esprit. Un espace de jeux avec table de ping-pong est Ã©galement Ã  votre disposition pour des moments de divertissement en famille, tout comme quelques jeux d'extÃ©rieur.
-
-**Ã€ ProximitÃ© :**
-
-SituÃ©e Ã  Grimaud, dans le domaine de Bartolle, cette villa est proche des plages, offrant ainsi de nombreuses possibilitÃ©s d'activitÃ©s en plein air. Les restaurants et boutiques locales sont facilement accessibles, vous permettant de dÃ©couvrir la gastronomie et la culture de la rÃ©gion.
-
-**Pourquoi Choisir Cette Villa ?**
-
-Cette villa est bien plus qu'un simple lieu de sÃ©jour. C'est un espace oÃ¹ les familles peuvent se rassembler, crÃ©er des souvenirs et profiter de moments de dÃ©tente ensemble. Que vous soyez ici pour un court sÃ©jour ou des vacances prolongÃ©es, cette villa rÃ©pondra Ã  tous vos besoins pour un sÃ©jour agrÃ©able et mÃ©morable. RÃ©servez dÃ¨s maintenant et prÃ©parez-vous Ã  vivre une expÃ©rience inoubliable Ã  Grimaud !
-
+Découvrez votre villa familiale idéale à Grimaud, un véritable havre de paix pour des vacances inoubliables. Avec ses 6 chambres spacieuses et 5 salles de bains, cette villa peut accueillir jusqu'à 14 personnes, ce qui en fait l'endroit parfait pour des retrouvailles en famille ou entre amis.
+Caractéristiques de la Villa :
+Espace de Vie Confortable : Profitez d'un salon lumineux et accueillant, idéal pour se détendre après une journée d'exploration. La villa est équipée d'une télévision, d'une table de jeu et d'un piano.
+Cuisine Entièrement Équipée : Préparez vos repas dans une grande cuisine, dotée d'un réfrigérateur, d'un four, d'un micro-ondes et d'une machine à café. Que ce soit pour un petit-déjeuner en famille ou un dîner convivial, vous trouverez tout ce dont vous avez besoin.
+Chambres Confortables : Chaque chambre est conçue pour offrir un maximum de confort, avec des draps de qualité et un espace suffisant pour se sentir chez soi.
+Salles de Bains : Les salles de bains sont équipées de tout le nécessaire, y compris des serviettes et un sèche-cheveux.
+Espaces Extérieurs :
+Piscine Privée : Détendez-vous au bord de la piscine chauffée*, parfaite pour se rafraîchir pendant les journées ensoleillées.
+Jardin Verdoyant : Le jardin clôturé offre un espace sécurisé pour les enfants, avec des zones pour jouer et explorer.
+Terrasse : Profitez de moments de convivialité sur la terrasse, idéale pour des barbecues en plein air.
+Équipements Supplémentaires :
+La villa est équipée de la climatisation dans les chambres, du Wi-Fi, d'un lave-linge et d'un sèche-linge, ainsi que d'un fer à repasser et d'un coffre-fort pour votre tranquillité d'esprit. Un espace de jeux avec table de ping-pong est également à votre disposition pour des moments de divertissement en famille, tout comme quelques jeux d'extérieur.
+À Proximité :
+Située à Grimaud, dans le domaine de Bartolle, cette villa est proche des plages, offrant ainsi de nombreuses possibilités d'activités en plein air. Les restaurants et boutiques locales sont facilement accessibles, vous permettant de découvrir la gastronomie et la culture de la région.
+Pourquoi Choisir Cette Villa ?
+Cette villa est bien plus qu'un simple lieu de séjour. C'est un espace où les familles peuvent se rassembler, créer des souvenirs et profiter de moments de détente ensemble. Que vous soyez ici pour un court séjour ou des vacances prolongées, cette villa répondra à tous vos besoins pour un séjour agréable et mémorable. Réservez dès maintenant et préparez-vous à vivre une expérience inoubliable à Grimaud !
 Extras :
-- MÃ©nage de fin de sÃ©jour OBLIGATOIRE: 400â‚¬
-- Linge de maison OBLIGATOIRE : 85â‚¬ par chambre utilisÃ©e en saison / 65â‚¬ sans les serviettes de piscine
-- Taxes de sÃ©jour OBLIGATOIRES: 3,31â‚¬ par jour et par adulte
-- MÃ©nage intermÃ©diaire possible
-- Prestations sur place possibles : livraison de petit dÃ©jeuner, courses, repas, rÃ©servation d'activitÃ©s, de restaurants, ...
+Ménage de fin de séjour OBLIGATOIRE: 400€
+Linge de maison OBLIGATOIRE : 85€ par chambre utilisée en saison / 65€ sans les serviettes de piscine
+Taxes de séjour OBLIGATOIRES: 3,31€ par jour et par adulte
+Ménage intermédiaire possible
+Prestations sur place possibles : livraison de petit déjeuner, courses, repas, réservation d'activités, de restaurants, …
 
----
+FLY – BJØRN ATLE / RAGNHILD + BARN
+Utreise
+Rute: Oslo (OSL) → Nice (NCE) Dato: Lørdag 4. juli 2026 Fly: SK 4703 · SAS Link · Embraer 195 Avgang: 08:50 · Ankomst: 11:50 Ankomstterminal: Terminal 2, Nice Referanse: XR9QNE Reisende: Bjørn Atle, Ragnhild, Sigrid, Sverre
+Hjemreise
+Rute: Nice (NCE) → Oslo (OSL) Dato: Onsdag 15. juli 2026 Fly: SK 4706 · SAS · Airbus A320neo Avgang: 18:05 · Ankomst: 21:00 Avgangsterminal: Terminal 2, Nice Referanse: ZVVUMS Reisende: Bjørn Atle, Sigrid, Sverre (Ragnhild reiser hjem 11. juli – se egen seksjon nedenfor)
 
-## FLY â€“ BJÃ˜RN ATLE / RAGNHILD + BARN
+FLY – CARSTEN / MARTHE + BARN
+Utreise: [LEGGES INN] Hjemreise: [LEGGES INN]
 
-### Utreise
-Rute: Oslo (OSL) â†’ Nice (NCE)
-Dato: LÃ¸rdag 4. juli 2026
-Fly: SK 4703 Â· SAS Link Â· Embraer 195
-Avgang: 08:50 Â· Ankomst: 11:50
-Ankomstterminal: Terminal 2, Nice
-Referanse: XR9QNE
-Reisende: BjÃ¸rn Atle, Ragnhild, Sigrid, Sverre
+FLY – EVA & SVEIN
+Utreise: [LEGGES INN] Hjemreise: [LEGGES INN]
 
-### Hjemreise
-Rute: Nice (NCE) â†’ Oslo (OSL)
-Dato: Onsdag 15. juli 2026
-Fly: SK 4706 Â· SAS Â· Airbus A320neo
-Avgang: 18:05 Â· Ankomst: 21:00
-Avgangsterminal: Terminal 2, Nice
-Referanse: ZVVUMS
-Reisende: Bjørn Atle, Sigrid, Sverre (Ragnhild reiser hjem 11. juli – se egen seksjon)
+FLY – REIDAR & ANNA
+Utreise: [LEGGES INN] Hjemreise: [LEGGES INN] Merknad: Ankommer senere i uken
 
----
+LEIEBIL – FLEX TO GO
+Kjøretøy: Ford Focus (eller tilsvarende) Reservasjonsnr: 0F00001173 Status: BETALT · 505,44 EUR Henting: 4. juli kl. 12:15 · Nice flyplass Terminal 1 Veibeskrivelse henting: Trikk fra T2 → mot Sheraton-hotellet → ECF-skiltet Innlevering: 15. juli kl. 17:00 · Samme sted Adresse utleiested: Flex To Go Nice, 455 Prom. des Anglais, 06200 Nice Spesifikasjoner: Manuell · Bensin (full tank) · 5 seter · 2 kofferter · Aircondition Depositum: 850 EUR blokkeres på kortet ved henting Egenandel skade/tyveri: 2 500 EUR Reisende i leiebil: Bjørn Atle, Ragnhild, Sigrid, Sverre
 
-## FLY â€“ CARSTEN / MARTHE + BARN
+SYKKELLEIE – BLUE BIKES CAVALAIRE (Bjørn Atle)
+Utleier: Blue Bikes Cavalaire, Rue du Port, 83240 Cavalaire-sur-Mer Kontakt: +33 4 94 64 18 17 · bluebikes.cavalaire@orange.fr Kontraktsnr: Contrat-de-Location-13062026-5178 Sykkel: Vélo de course carbone «Prestige» (karbon racersykkel) · 1 stk Leieperiode: Onsdag 8. juli kl. 15:00 → fredag 10. juli kl. 15:00 (2 dager) Pris: 120 EUR totalt (12 EUR betalt med kort 12.06, 108 EUR gjenstår) Depositum: 1 500 EUR Leietaker: Bjørn Atle Jacobsen
 
-Utreise: [LEGGES INN]
-Hjemreise: [LEGGES INN]
-
----
-
-## FLY â€“ EVA & SVEIN
-
-Utreise: [LEGGES INN]
-Hjemreise: [LEGGES INN]
-
----
-
-## FLY â€“ REIDAR & ANNA
-
-Utreise: [LEGGES INN]
-Hjemreise: [LEGGES INN]
-Merknad: Ankommer senere i uken
-
----
-
-## LEIEBIL â€“ FLEX TO GO
-
-KjÃ¸retÃ¸y: Ford Focus (eller tilsvarende)
-Reservasjonsnr: 0F00001173
-Status: BETALT Â· 505,44 EUR
-Henting: 4. juli kl. 12:15 Â· Nice flyplass Terminal 1
-Veibeskrivelse henting: Trikk fra T2 â†’ mot Sheraton-hotellet â†’ ECF-skiltet
-Innlevering: 15. juli kl. 17:00 Â· Samme sted
-Adresse utleiested: Flex To Go Nice, 455 Prom. des Anglais, 06200 Nice
-Spesifikasjoner: Manuell Â· Bensin (full tank) Â· 5 seter Â· 2 kofferter Â· Aircondition
-Depositum: 850 EUR blokkeres pÃ¥ kortet ved henting
-Egenandel skade/tyveri: 2 500 EUR
-Reisende i leiebil: BjÃ¸rn Atle, Ragnhild, Sigrid, Sverre
-
----
-
-
-## SYKKELLEIE – BLUE BIKES CAVALAIRE (Bjørn Atle)
-
-Utleier: Blue Bikes Cavalaire, Rue du Port, 83240 Cavalaire-sur-Mer
-Kontakt: +33 4 94 64 18 17 · bluebikes.cavalaire@orange.fr
-Kontraktsnr: Contrat-de-Location-13062026-5178
-Sykkel: Vélo de course carbone «Prestige» (karbon racersykkel) · 1 stk
-Leieperiode: Onsdag 8. juli kl. 15:00 → fredag 10. juli kl. 15:00 (2 dager)
-Pris: 120 EUR totalt (12 EUR betalt med kort 12.06, 108 EUR gjenstår)
-Depositum: 1 500 EUR
-Leietaker: Bjørn Atle Jacobsen
-
-
-
----
-
-
-## SHUTTLEBUSS
-
+SHUTTLEBUSS
 Status: IKKE BESTILT
-
-Reisende som trenger shuttle: Eva & Svein, Carsten & Marthe + 3 barn
-Antall: 7 personer (4 voksne + 3 barn: alder 1, 2 og 4 Ã¥r)
-Barnestoler: 3 stk (tilpasset alder 1, 2 og 4 Ã¥r)
-
+Reisende som trenger shuttle: Eva & Svein, Carsten & Marthe + 3 barn Antall: 7 personer (4 voksne + 3 barn: alder 1, 2 og 4 år) Barnestoler: 3 stk (tilpasset alder 1, 2 og 4 år)
 Reisedetaljer for booking:
-- Avreise: Nice CÃ´te d'Azur Airport (NCE), Terminal 2
-- Destinasjon: 6 Bd du Lion, 83310 Grimaud, France
-- Dato: LÃ¸rdag 4. juli 2026
-- Landing: SK 4703, kl. 11:50
-- Ã˜nsket pickup: kl. 13:00
+Avreise: Nice Côte d'Azur Airport (NCE), Terminal 2
+Destinasjon: 6 Bd du Lion, 83310 Grimaud, France
+Dato: Lørdag 4. juli 2026
+Landing: SK 4703, kl. 11:50
+Ønsket pickup: kl. 13:00
+Innhentede tilbud
+Aktør
+Nettsted
+Kontakt
+Pris
+Barnestoler
+Flight tracking
+Booking
+Transfeero
+transfeero.com
+Online
+€293,64
+3 (avventer bekreftelse)
+✅
+Online
+Welcome Pickups
+welcomepickups.com
+Online
+€448
+3 ✅
+✅
+Online
+Tour Azur
+tourazur.com
+tourazur@tourazur.com · +33 4 93 44 88 77
+€493
+3 (avventer bekreftelse)
+✅
+Via epost
+Merknad: Transfeero og Tour Azur har gratis avbestilling, men barnestoler må bekreftes av kundeservice.
 
-### Innhentede tilbud
+TAXI & LOKALBUSS
+For reisende uten leiebil, eller for kortere turer i nærområdet.
+Taxi
+Bookes på forhånd per telefon – ingen gateholdeplass i Beauvallon.
+LdeS Taxi/VTC (Grimaud, Port Grimaud, Sainte-Maxime, Saint-Tropez): +33 6 18 95 46 07 – tospråklig, barneseter (bekreft ved bestilling).
+Uber tilgjengelig i Grimaud/Sainte-Maxime (UberX), døgnåpent.
+Takstene er regulerte (taksameter). Flere lokale sjåfører via katalog: itaxis.fr (Sainte-Maxime).
+Buss – Zou! Proximité
+Nærmeste stopp: «Rond-Point de Guerrevieille» (linjene 874 og 876), ca. 1,1 km / 15 min til fots fra huset via Bd de Bartole. I drift med flere daglige avganger.
+Linje 876: kystlinje Saint-Raphaël ↔ Sainte-Maxime ↔ Port Grimaud ↔ Saint-Tropez (Gare Routière).
+Linje 874: betjener også Beauvallon-kysten (Cavalaire ↔ Sainte-Maxime ↔ Saint-Raphaël).
+Grimaud landsby (oppe i høyden): nås med omstigning via knutepunktet La Foux/Cogolin.
+Rutetider er sesong-/årsavhengige – sjekk alltid oppdatert tabell. Ruteplanlegger og billetter: zou.maregionsud.fr
 
-| AktÃ¸r           | Nettsted          | Kontakt                                   | Pris     | Barnestoler              | Flight tracking | Booking    |
-|-----------------|-------------------|---------------------------------------------|----------|---------------------------|-----------------|------------|
-| Transfeero      | transfeero.com    | Online                                    | â‚¬293,64  | 3 (avventer bekreftelse) | âœ…              | Online     |
-| Welcome Pickups | welcomepickups.com| Online                                    | â‚¬448     | 3 âœ…                     | âœ…              | Online     |
-| Tour Azur       | tourazur.com      | tourazur@tourazur.com Â· +33 4 93 44 88 77 | â‚¬493     | 3 (avventer bekreftelse) | âœ…              | Via epost  |
+AKTIVITETER
+Plage de Gigaro (La Croix-Valmer) – familievennlig strand
+Dagstur Saint-Tropez med ferge fra Port Grimaud (ca. 15 min) – Les Bateaux Verts (bateauxverts.com)
+Port Grimaud – kanalby, «Provences Venezia»
+Château de Grimaud – middelalderborg med panoramautsikt (gratis)
+Marked i Grimaud – tirsdag og fredag formiddag
+Aqualand Sainte-Maxime – vannpark, perfekt for barn (aqualand.fr)
+Gorges du Verdon – dagtur (ca. 1,5 t fra Grimaud)
+Village des Tortues, Carnoules – skilpaddepark (ca. 1 t) (tortupole.fr)
 
-Merknad: Transfeero og Tour Azur har gratis avbestilling, men barnestoler mÃ¥ bekreftes av kundeservice.
-
----
-
-## TAXI & LOKALBUSS
-
-For reisende uten leiebil, eller for kortere turer i nÃ¦romrÃ¥det.
-
-### Taxi
-- Bookes pÃ¥ forhÃ¥nd per telefon â€“ ingen gateholdeplass i Beauvallon.
-- LdeS Taxi/VTC (Grimaud, Port Grimaud, Sainte-Maxime, Saint-Tropez): +33 6 18 95 46 07 â€“ tosprÃ¥klig, barneseter (bekreft ved bestilling).
-- Uber tilgjengelig i Grimaud/Sainte-Maxime (UberX), dÃ¸gnÃ¥pent.
-- Takstene er regulerte (taksameter). Flere lokale sjÃ¥fÃ¸rer via katalog: itaxis.fr (Sainte-Maxime).
-
-### Buss â€“ Zou! ProximitÃ©
-- NÃ¦rmeste stopp: Â«Rond-Point de GuerrevieilleÂ» (linjene 874 og 876), ca. 1,1 km / 15 min til fots fra huset via Bd de Bartole. I drift med flere daglige avganger.
-- Linje 876: kystlinje Saint-RaphaÃ«l â†” Sainte-Maxime â†” Port Grimaud â†” Saint-Tropez (Gare RoutiÃ¨re).
-- Linje 874: betjener ogsÃ¥ Beauvallon-kysten (Cavalaire â†” Sainte-Maxime â†” Saint-RaphaÃ«l).
-- Grimaud landsby (oppe i hÃ¸yden): nÃ¥s med omstigning via knutepunktet La Foux/Cogolin.
-- Rutetider er sesong-/Ã¥rsavhengige â€“ sjekk alltid oppdatert tabell. Ruteplanlegger og billetter: zou.maregionsud.fr
-
----
-
-## AKTIVITETER
-
-- Plage de Gigaro (La Croix-Valmer) â€“ familievennlig strand
-- Dagstur Saint-Tropez med ferge fra Port Grimaud (ca. 15 min) â€“ Les Bateaux Verts (bateauxverts.com)
-- Port Grimaud â€“ kanalby, Â«Provences VeneziaÂ»
-- ChÃ¢teau de Grimaud â€“ middelalderborg med panoramautsikt (gratis)
-- Marked i Grimaud â€“ tirsdag og fredag formiddag
-- Aqualand Sainte-Maxime â€“ vannpark, perfekt for barn (aqualand.fr)
-- Gorges du Verdon â€“ dagtur (ca. 1,5 t fra Grimaud)
-- Village des Tortues, Carnoules â€“ skilpaddepark (ca. 1 t) (tortupole.fr)
-
----
-
-## MAT & Måltidsplan
-
+MAT & Måltidsplan
 M¥ltidsplan med ansvarsliste: [LEGGES INN]
-
 Ideer til retter:
-- NiÃ§oise-salat
-- Ratatouille
-- Bouillabaisse
-- BBQ-kveld ved bassenget
-- Ost & charcuterie-bord fra markedet
+Niçoise-salat
+Ratatouille
+Bouillabaisse
+BBQ-kveld ved bassenget
+Ost & charcuterie-bord fra markedet
+Bursdagsmiddag for Eva & Svein [detaljer TBD]
 
----
-
-## DAGSPROGRAM (fellesdager 4.–10. juli)
-
+DAGSPROGRAM (fellesdager 4.–10. juli)
 Struktur per dag: Frokost / Formiddag / Lunsj / Ettermiddag / Middag.
+Lør 4. juli (Ankomst): Formiddag = fly lander 11:50 · Ettermiddag = innsjekk hus Søn 5. juli: Ettermiddag = basseng · Middag = kokk i huset Man 6. juli: [LEGGES INN] Tir 7. juli: Formiddag = Port Grimaud · Ettermiddag = Port Grimaud Ons 8. juli: [LEGGES INN] Tor 9. juli: [LEGGES INN] Fre 10. juli: [LEGGES INN]
 
-Lør 4. juli (Ankomst): Formiddag = fly lander 11:50 · Ettermiddag = innsjekk hus
-Søn 5. juli: Ettermiddag = basseng · Middag = kokk i huset
-Man 6. juli: [LEGGES INN]
-Tir 7. juli: Formiddag = Port Grimaud · Ettermiddag = Port Grimaud
-Ons 8. juli: [LEGGES INN]
-Tor 9. juli: [LEGGES INN]
-Fre 10. juli: [LEGGES INN]
+PRAKTISK
+Koordinator: Bjørn Atle · +47 952 94 254 Flex To Go (leiebil): Se bestillingsepost Shuttlebuss: [LEGGES INN når bestilt] Utleier/huset: [LEGGES INN]
+Nødnummer: 112 (EU), 15 (medisinsk), 17 (politi), 18 (brann) Nærmeste sykehus: Centre Hospitalier de Saint-Tropez (ca. 15 min) Nærmeste dagligvare: Intermarché i Grimaud (ca. 5 min med bil) Større handel: Leclerc i Sainte-Maxime (ca. 15 min) Kjøretid flyplass → hus: ca. 1 time 20 min (90 km via A8/A57) Valuta: Euro (EUR) – kort aksepteres de fleste steder, ta med kontanter til markeder Vær juli: 28–33°C, svært lite nedbør, over 11 timers sol per dag Roaming: EU-roaming inkludert for norske abonnementer Bensin: Leveres med full tank, returneres med full tank Parkering Nice flyplass: Korttidsparkering ved T2 – leiebil hentes ved T1 (gratis trikk)
 
+FAKTA OM GRIMAUD & CÔTE DE MAURES
+Château de Grimaud dateres til 900-tallet – gratis å besøke, panoramautsikt
+Port Grimaud anlagt 1966 av arkitekt François Spoerry – alle hus har privat bro og båtplass
+Golfbukten: 24–26°C i vannet i juli
+Maures-massivet: kork- og kastanjetrær, Hermann-skilpadden er fredet her
+Provence rosé: Château Minuty og Domaines Ott holder til rett utenfor Saint-Tropez
+Marked tirsdag og fredag formiddag i Grimaud
+Juli: 28–33°C, nesten null nedbør, 11+ timers sol
+Saint-Tropez nås enklest med ferge fra Port Grimaud (ca. 15 min) – svært begrenset parkering i sentrum
+Brigitte Bardot-effekten: ukjent fiskerlandsby inntil filmen «Og Gud skapte kvinnen» i 1956
+Village des Tortues i Carnoules: Hermann-skilpadder, har levd i Maures-skogene i 15 000 år
 
----
+RESTAURANTER
+Alle avstandene er bekreftet gangavstand fra 6 Bd du Lion. Juli er høysesong – reserver alltid bord på forhånd.
+1. Just'in Café
+Adresse: 4483 Rte du Littoral, 83310 Grimaud Gangavstand: 1,2 km Type: Burger, pizza, casual Vurdering: 4.6 / 5 (663 anmeldelser) Åpent: Man–tirs og tor–søn kl. 11:30–14:00 og 18:30–21:00. Stengt onsdag. Telefon: +33 7 81 81 21 90 Egnet for familien: Ja – barnvennlig med lekeplass, rimelig prisnivå
+2. Le Pingouin Bleu
+Adresse: 4290 Rte du Littoral, 83310 Grimaud Gangavstand: 1,2 km Type: Fransk / Middelhavet – strandrestaurant Vurdering: 4.6 / 5 (508 anmeldelser) Åpent: [Kontroller ved ankomst – ikke registrert i database] Telefon: +33 4 94 96 36 22 Egnet for familien: Ja – god mat, avslappet stemning, utsikt over bukten
+3. Beauvallon Sur Mer by Yannick Alléno
+Adresse: 4086 Rte du Littoral, 83310 Grimaud Gangavstand: 1,4 km Type: Finere fransk – åpen strandterrasse Vurdering: 4.8 / 5 (30 anmeldelser) Åpent: Daglig kl. 12:00–15:00 og 19:00–23:00 Telefon: +33 4 94 55 78 88 Egnet for familien: Delvis – høyere prisnivå, best for voksne. Aktuell for bursdagsmiddag Eva & Svein.
+4. Le 19 – Le Club House
+Adresse: Bd des Collines, 83310 Grimaud Gangavstand: 2,4 km Type: Klubbhusrestaurant Vurdering: 5.0 / 5 (kun 4 anmeldelser – begrenset grunnlag) Åpent: Daglig kl. 09:00–19:00 (kun dagtid) Telefon: +33 9 86 61 52 20 Egnet for familien: Mulig lunsjsted – åpent kun dagtid
 
-## PRAKTISK
-
-Koordinator: BjÃ¸rn Atle Â· +47 952 94 254
-Flex To Go (leiebil): Se bestillingsepost
-Shuttlebuss: [LEGGES INN nÃ¥r bestilt]
-Utleier/huset: [LEGGES INN]
-
-NÃ¸dnummer: 112 (EU), 15 (medisinsk), 17 (politi), 18 (brann)
-NÃ¦rmeste sykehus: Centre Hospitalier de Saint-Tropez (ca. 15 min)
-NÃ¦rmeste dagligvare: IntermarchÃ© i Grimaud (ca. 5 min med bil)
-StÃ¸rre handel: Leclerc i Sainte-Maxime (ca. 15 min)
-KjÃ¸retid flyplass â†’ hus: ca. 1 time 20 min (90 km via A8/A57)
-Valuta: Euro (EUR) â€“ kort aksepteres de fleste steder, ta med kontanter til markeder
-VÃ¦r juli: 28â€“33Â°C, svÃ¦rt lite nedbÃ¸r, over 11 timers sol per dag
-Roaming: EU-roaming inkludert for norske abonnementer
-Bensin: Leveres med full tank, returneres med full tank
-Parkering Nice flyplass: Korttidsparkering ved T2 â€“ leiebil hentes ved T1 (gratis trikk)
-
----
-
-## FAKTA OM GRIMAUD & CÃ”TE DE MAURES
-
-- ChÃ¢teau de Grimaud dateres til 900-tallet â€“ gratis Ã¥ besÃ¸ke, panoramautsikt
-- Port Grimaud anlagt 1966 av arkitekt FranÃ§ois Spoerry â€“ alle hus har privat bro og bÃ¥tplass
-- Golfbukten: 24â€“26Â°C i vannet i juli
-- Maures-massivet: kork- og kastanjetrÃ¦r, Hermann-skilpadden er fredet her
-- Provence rosÃ©: ChÃ¢teau Minuty og Domaines Ott holder til rett utenfor Saint-Tropez
-- Marked tirsdag og fredag formiddag i Grimaud
-- Juli: 28â€“33Â°C, nesten null nedbÃ¸r, 11+ timers sol
-- Saint-Tropez nÃ¥s enklest med ferge fra Port Grimaud (ca. 15 min) â€“ svÃ¦rt begrenset parkering i sentrum
-- Brigitte Bardot-effekten: ukjent fiskerlandsby inntil filmen Â«Og Gud skapte kvinnenÂ» i 1956
-- Village des Tortues i Carnoules: Hermann-skilpadder, har levd i Maures-skogene i 15 000 Ã¥r
-
----
-
-## RESTAURANTER
-
-Alle avstandene er bekreftet gangavstand fra 6 Bd du Lion.
-Juli er hÃ¸ysesong â€“ reserver alltid bord pÃ¥ forhÃ¥nd.
-
-### 1. Just'in CafÃ©
-Adresse: 4483 Rte du Littoral, 83310 Grimaud
-Gangavstand: 1,2 km
-Type: Burger, pizza, casual
-Vurdering: 4.6 / 5 (663 anmeldelser)
-Ã…pent: Manâ€“tirs og torâ€“sÃ¸n kl. 11:30â€“14:00 og 18:30â€“21:00. Stengt onsdag.
-Telefon: +33 7 81 81 21 90
-Egnet for familien: Ja â€“ barnvennlig med lekeplass, rimelig prisnivÃ¥
-
-### 2. Le Pingouin Bleu
-Adresse: 4290 Rte du Littoral, 83310 Grimaud
-Gangavstand: 1,2 km
-Type: Fransk / Middelhavet â€“ strandrestaurant
-Vurdering: 4.6 / 5 (508 anmeldelser)
-Ã…pent: [Kontroller ved ankomst â€“ ikke registrert i database]
-Telefon: +33 4 94 96 36 22
-Egnet for familien: Ja â€“ god mat, avslappet stemning, utsikt over bukten
-
-### 3. Beauvallon Sur Mer by Yannick AllÃ©no
-Adresse: 4086 Rte du Littoral, 83310 Grimaud
-Gangavstand: 1,4 km
-Type: Finere fransk â€“ Ã¥pen strandterrasse
-Vurdering: 4.8 / 5 (30 anmeldelser)
-Ã…pent: Daglig kl. 12:00â€“15:00 og 19:00â€“23:00
-Telefon: +33 4 94 55 78 88
-Egnet for familien: Delvis â€“ hÃ¸yere prisnivÃ¥, best for voksne. Aktuell for bursdagsmiddag Eva & Svein.
-
-### 4. Le 19 â€“ Le Club House
-Adresse: Bd des Collines, 83310 Grimaud
-Gangavstand: 2,4 km
-Type: Klubbhusrestaurant
-Vurdering: 5.0 / 5 (kun 4 anmeldelser â€“ begrenset grunnlag)
-Ã…pent: Daglig kl. 09:00â€“19:00 (kun dagtid)
-Telefon: +33 9 86 61 52 20
-Egnet for familien: Mulig lunsjsted â€“ Ã¥pent kun dagtid
-
----
-
-## Notater bruker
-
-Carsten er ansvarlig for Ã¥ booke transit til/fra flyplass. Alternativer listet over. Booking ikke bekreftet.
-
+Notater bruker
+Carsten er ansvarlig for å booke transit til/fra flyplass. Alternativer listet over. Booking ikke bekreftet.
 Reidar og Anna ankommer onsdag kveld.
-
-Eva, Svein, Ragnhild, Reidar, Anna, Carsten m/familie har hjemreisedag lÃ¸rdag 11. juli. BjÃ¸rn Atle med to barn reiser hjem onsdag 15. juli (Ragnhild har fremskyndet sin hjemreise).
-
-## Notater nettportal fra bruker
-
-Hjemmereisedetaljer 15. juli for BjÃ¸rn Atle + barn medtas ikke (flight info etc).
-Informasjon om priser pÃ¥ fly, leiebil tas ikke med. Ikke depositum leiebil.
-
-Ã˜nsker fra bruker til undersider:
-
-Fremside (landingsside): Sammendrag av nÃ¸kkelinformasjon (reisende, datoer, tidspunkt, adresse hus, hÃ¸ydepunkt i nÃ¦rmiljÃ¸et fra aktiviteter, praktisk informasjon om destinasjon etc).
-Huset vÃ¥rt: SÃ¥ mye praktisk info og bilder om huset som mulig. Egen seksjon "MÃ¥ltid i huset". Kokk kan leies. NÃ¸kkelinfo om nabolaget nederst (hvilket sted er dette).
-Aktiviteter og restauranter: NÃ¦rmeste strand, andre aktiviteter for barn og voksne, restauranter.
-Reisedetaljer: Detaljer rundt fly, transit og leiebil (flight nummer, reservasjonsnummer, og annen detaljinformasjon, transittilbud etc).
-
-
---------
-
-## REISE BJØRN ATLE, SIGRID & SVERRE – 11.–15. JULI
-
+Eva, Svein, Ragnhild, Reidar, Anna, Carsten m/familie har hjemreisedag lørdag 11. juli. Bjørn Atle med to barn reiser hjem onsdag 15. juli (Ragnhild har fremskyndet sin hjemreise).
+REISE BJØRN ATLE, SIGRID & SVERRE – 11.–15. JULI
 Etter utsjekk fra huset 11. juli blir Bjørn Atle, Sigrid og Sverre igjen i 4 netter før hjemreise 15. juli.
+Overnatting 1: Hotel Le Catalogne (Van der Valk)
+Adresse: Avenue Lucien Boeuf, 83370 Saint-Aygulf Periode: Lør 11. juli (innsjekk 16:00) → man 13. juli (utsjekk 12:00), 2 netter Rom: Triple room · frokost inkludert Res.nr: CAT-001431 · Pris: 638,92 EUR (ikke betalt) Kontakt: +33 4 94 81 01 44 · catalogne@valk.com
+Overnatting 2: Le Hameau
+Adresse: 528 route de la Colle, 06570 Saint-Paul-de-Vence Periode: Man 13. juli (innsjekk 15:00–20:00) → ons 15. juli (utsjekk før 11:00), 2 netter Rom: Classic Quadruple Room (4-mannsrom) · frokost inkludert Res.nr: 3941 · booket i Ragnhilds navn · Pris: 694,76 EUR (ikke betalt) Reelt belegg: 1 voksen + Sigrid og Sverre Kontakt: +33 4 83 39 95 94 · reservation@le-hameau.com
+Dagsprogram (FORSLAG – IKKE VERIFISERT)
+Lør 11. juli: Utsjekk Grimaud → Saint-Aygulf (uverifisert ~20 min), innsjekk Le Catalogne 16:00, rolig kveld Søn 12. juli: Arènes de Fréjus / Base Nature; strand (Plage de la Garonette / hotellstrand); nattmarked Saint-Raphaël (uverifisert til 00:30) Man 13. juli: Aquasplash Antibes (uverifisert fra 10:00) → Saint-Paul-de-Vence, innsjekk Le Hameau; middag (Café de la Place / La Colombe d'Or) Tir 14. juli (Bastilledagen): fri dag Saint-Paul-de-Vence; fyrverkeri Cagnes-sur-Mer (uverifisert ~10 min) eller lokalt Ons 15. juli: frokost Le Hameau; valgfri Fondation Maeght (fra 10:00); utsjekk før 11:00; lunsj mot flyplassen (Juan-les-Pins); levere leiebil; SK 4706 18:05 → Oslo
 
-### Overnatting 1: Hotel Le Catalogne (Van der Valk)
-Adresse: Avenue Lucien Boeuf, 83370 Saint-Aygulf
-Periode: Lør 11. juli (innsjekk 16:00) → man 13. juli (utsjekk 12:00), 2 netter
-Rom: Triple room · frokost inkludert
-Res.nr: CAT-001431 · Pris: 638,92 EUR (ikke betalt)
-Kontakt: +33 4 94 81 01 44 · catalogne@valk.com
-
-### Overnatting 2: Le Hameau
-Adresse: 528 route de la Colle, 06570 Saint-Paul-de-Vence
-Periode: Man 13. juli (innsjekk 15:00–20:00) → ons 15. juli (utsjekk før 11:00), 2 netter
-Rom: Classic Quadruple Room (4-mannsrom) · frokost inkludert
-Res.nr: 3941 · booket i Ragnhilds navn · Pris: 694,76 EUR (ikke betalt)
-Reelt belegg: 1 voksen + Sigrid og Sverre
-Kontakt: +33 4 83 39 95 94 · reservation@le-hameau.com
-
-### Dagsprogram (FORSLAG – IKKE VERIFISERT)
-Lør 11. juli: Utsjekk Grimaud → Saint-Aygulf (uverifisert ~20 min), innsjekk Le Catalogne 16:00, rolig kveld
-Søn 12. juli: Arènes de Fréjus / Base Nature; strand (Plage de la Garonette / hotellstrand); nattmarked Saint-Raphaël (uverifisert til 00:30)
-Man 13. juli: Aquasplash Antibes (uverifisert fra 10:00) → Saint-Paul-de-Vence, innsjekk Le Hameau; middag (Café de la Place / La Colombe d'Or)
-Tir 14. juli (Bastilledagen): fri dag Saint-Paul-de-Vence; fyrverkeri Cagnes-sur-Mer (uverifisert ~10 min) eller lokalt
-Ons 15. juli: frokost Le Hameau; valgfri Fondation Maeght (fra 10:00); utsjekk før 11:00; lunsj mot flyplassen (Juan-les-Pins); levere leiebil; SK 4706 18:05 → Oslo
-
-
-
+Notater nettportal fra bruker
+Hjemmereisedetaljer 15. juli for Bjørn Atle + barn medtas ikke (flight info etc). Informasjon om priser på fly, leiebil tas ikke med. Ikke depositum leiebil.
+Ønsker fra bruker til undersider:
+Fremside (landingsside): Sammendrag av nøkkelinformasjon (reisende, datoer, tidspunkt, adresse hus, høydepunkt i nærmiljøet fra aktiviteter, praktisk informasjon om destinasjon etc). Huset vårt: Så mye praktisk info og bilder om huset som mulig. Egen seksjon "Måltid i huset". Kokk kan leies. Nøkkelinfo om nabolaget nederst (hvilket sted er dette). Aktiviteter og restauranter: Nærmeste strand, andre aktiviteter for barn og voksne, restauranter. Reisedetaljer: Detaljer rundt fly, transit og leiebil (flight nummer, reservasjonsnummer, og annen detaljinformasjon, transittilbud etc).
