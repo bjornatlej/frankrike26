@@ -209,6 +209,17 @@ h3.under:first-of-type{margin-top:.6rem}
   font-size:.9rem;color:var(--blekk-2);border-left:4px solid var(--amber);
 }
 
+/* ===== DAGSPROGRAM ===== */
+.prog{display:grid;gap:.8rem;margin-top:.9rem}
+.prog-dag{background:var(--krem);border-radius:12px;border-left:4px solid var(--amber);overflow:hidden}
+.prog-dag:nth-child(3n+2){border-left-color:var(--terra)}
+.prog-dag:nth-child(3n){border-left-color:var(--lavendel)}
+.prog-dag h4{font-family:'Playfair Display',serif;color:var(--terra);font-size:1.02rem;padding:.7rem .95rem .45rem}
+.prog-rad{display:grid;grid-template-columns:94px 1fr;gap:.6rem;padding:.45rem .95rem;border-top:1px solid var(--linje);font-size:.9rem}
+.prog-rad .nar{font-size:.68rem;text-transform:uppercase;letter-spacing:.05em;color:var(--blekk-2);font-weight:700;align-self:center}
+.prog-rad .hva{color:var(--blekk)}
+.prog-rad .hva.tom{color:var(--blekk-2);opacity:.45}
+
 /* ===== TIDSLINJE ===== */
 .dag{display:flex;gap:1rem;margin-bottom:1rem}
 .dag:last-child{margin-bottom:0}
