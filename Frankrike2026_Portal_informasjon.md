@@ -98,13 +98,36 @@ Rute: Nice (NCE) → Oslo (OSL)Dato: Onsdag 15. juli 2026Fly: SK 4706 · SAS · 
 
 ## FLY – CARSTEN / MARTHE + BARN
 
-Utreise: [LEGGES INN]Hjemreise: [LEGGES INN]
+### Utreise
+* Rute: Oslo (OSL) → Nice (NCE)
+* Dato: Lørdag 4. juli 2026
+* Fly: SK 4703 · SAS Link · Embraer 195 (samme fly som Bjørn Atle + familie og Eva & Svein)
+* Avgang: 08:50 · Ankomst: 11:50
+* Ankomstterminal: Terminal 2, Nice
+* Reisende: Carsten, Marthe, Nicolay, Elisabeth, Charlotte
+* Referanse: [egen bestilling – legges inn]
 
-* * *
+### Hjemreise
+* [LEGGES INN – ubekreftet]
 
 ## FLY – EVA & SVEIN
 
-Utreise: [LEGGES INN]Hjemreise: [LEGGES INN]
+### Utreise
+* Rute: Oslo (OSL) → Nice (NCE)
+* Dato: Lørdag 4. juli 2026
+* Fly: SK 4703 · SAS Link · Embraer 195 (samme fly som Bjørn Atle + familie og Carsten + familie)
+* Avgang: 08:50 · Ankomst: 11:50
+* Ankomstterminal: Terminal 2, Nice
+* Reisende: Eva, Svein
+* Referanse: [egen bestilling – legges inn]
+
+### Hjemreise
+* Rute: Nice (NCE) → Oslo (OSL)
+* Dato: Lørdag 11. juli 2026
+* Fly: SAS Link · direkte (2 t 55 min)
+* Avgang: 12:40 · Ankomst: 15:35
+* Reisende: Eva, Svein, Ragnhild
+* Flynr./referanse: [legges inn]
 
 * * *
 
@@ -113,6 +136,17 @@ Utreise: [LEGGES INN]Hjemreise: [LEGGES INN]
 Utreise: [LEGGES INN]Hjemreise: [LEGGES INN]Merknad: Ankommer senere i uken
 
 * * *
+
+## FLYTOG (utreise 4. juli)
+
+* Felles plan: tog fra Nationaltheatret til Oslo lufthavn før flyavgang kl. 08:50
+* Valgt avgang: Nationaltheatret 06:38 → Oslo lufthavn 07:14 (36 min, spor 3)
+* Margin til fly: ca. 1 t 35 min før avgang
+* Frekvens: ca. hvert 20. min (alt.: 05:58, 06:18, 06:38, 06:58, 07:18, 07:38 …)
+* Merknad: Rutetider bekreftes i app (Vy / Flytoget) på reisedagen. Billett i app eller på stasjonen.
+
+* * *
+
 
 ## LEIEBIL – FLEX TO GO
 
