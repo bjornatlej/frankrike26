@@ -70,9 +70,17 @@ Extras :
 * * *
 ## Kokk
 
-Privat kokk er bestilt til huset for  middag eller lunsj noen dager. Dette framgår av dagsprogram under.
-Navn kokk: Chef Dori Attieh
-Informasjon om kokk: https://www.chefdoriattieh.com/
+## Kokk
+
+Privat kokk er booket til huset for middag eller lunsj noen dager (7 måltider totalt). Ragnhild har booket. Hvilke dager/måltider framgår av dagsprogram under (merket "kokk i huset").
+
+Navn: Chef Dori Attieh
+Basert i: Cannes (23 Av. de Lérins, 06400 Cannes)
+Erfaring: 17+ år fra yachter, villaer og private eiendommer i Midtøsten, Europa og Karibia
+Kjøkken: Fusjon — libanesisk, italiensk, søramerikansk, middelhavs + fransk fine dining. Menyer tilpasses ønsker og allergier.
+Nettside: https://www.chefdoriattieh.com/
+Telefon: +33 6 27 57 54 95
+Bilde: chef.jpg (i repo-rot, brukes på huset.html)
 
 * * *
 
