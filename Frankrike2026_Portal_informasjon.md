@@ -68,6 +68,13 @@ Extras :
 * Prestations sur place possibles : livraison de petit déjeuner, courses, repas, réservation d'activités, de restaurants, ...
 
 * * *
+## Kokk
+
+Privat kokk er bestilt til huset for  middag eller lunsj noen dager. Dette framgår av dagsprogram under.
+Navn kokk: Chef Dori Attieh
+Informasjon om kokk: https://www.chefdoriattieh.com/
+
+* * *
 
 ## FLY – BJØRN ATLE / RAGNHILD + BARN
 
@@ -173,7 +180,6 @@ For reisende uten leiebil, eller for kortere turer i nærområdet.
 
 ## MAT & Måltidsplan
 
-M¥ltidsplan med ansvarsliste: [LEGGES INN]
 
 Ideer til retter:
 
